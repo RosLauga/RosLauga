@@ -2,24 +2,11 @@
 
 Hi, I’m Rodrigo
 
-    :mortar_board: Recent computer science graduate from UNC - Chapel Hill
-    :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
-    :ringed_planet: Looking forward to global net zero, Mars & the rest of space, and nuclear fusion
-    :mailbox: Ask me about accessibility, cybersecurity, web, full stack, or literally anything!
+Stop there, why so seriuos?
+this is not another boring overview profile... or do? 
+who knows right? everything is so subjective and.. ok ok i'm stop right here to write everything pop up of my head.
 
-Telegram Gmail LinkedIn adamalston.com
+Go again, hi my name is Rodrigo... welcome to my Github's profile (jackass's song intro)
 
-Languages I have used
-
-C C++ Clojure HTML5 Java JavaScript Python TypeScript SQL Swift
-
-Some of the technologies I have worked with
-
-Git GitHub Jira jQuery Linux Node.js React Java Spring TCP/IP XCode
-
-Some of my favorite open source projects
-
-Bitwarden Dark Reader uBlock Origin MEGA Visual Studio Code Tor
-
-Fun fact: I once answered the world’s oldest question with a single line of JavaScript
+    
 
